@@ -26,3 +26,5 @@ Dose.create(description: "9 cl", cocktail_id: "2", ingredient_id: "6")
 Dose.create(description: "1.33 oz", cocktail_id: "3", ingredient_id: "2")
 Dose.create(description: "1.33 oz", cocktail_id: "3", ingredient_id: "5")
 Dose.create(description: "2 cl", cocktail_id: "4", ingredient_id: "4")
+
+
